@@ -1,4 +1,4 @@
-# Python as Language v3.5 ![Build Status]
+# Python as Language v3.5
 
 
 ### Repository contains the all python language building blocks and also contains mini projects on those topics 
