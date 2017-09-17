@@ -10,9 +10,11 @@ __Language Basics__
 - Introduction to Python
 - Objects & Data Structures
 - Strings
-- Comparison Operators
-- Sets in Python
-- Statements
+- Lists 
+- Sets 
+- Tuples
+- Dictonaries
+- map & reduce functions
 - Methods & Lambda Expressions
 - Excerise and Project
 
